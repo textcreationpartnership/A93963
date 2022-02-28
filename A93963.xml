@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A strange and lamentable accident that happened lately at Mears-Ashby in Northamptonshire. 1642. Of one Mary Wilmore, wife to Iohn Wilmore rough mason, who was delivered of a childe without a head, and credibly reported to have a firme crosse on the brest, as this ensuing story shall relate.</title>
+            <author>Locke, John, Cleric.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93963</idno>
+            <idno type="STC">Wing S5819</idno>
+            <idno type="STC">Thomason E113_15</idno>
+            <idno type="STC">ESTC R13875</idno>
+            <idno type="EEBO-CITATION">99859570</idno>
+            <idno type="PROQUEST">99859570</idno>
+            <idno type="VID">111660</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93963)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111660)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E113[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A strange and lamentable accident that happened lately at Mears-Ashby in Northamptonshire. 1642. Of one Mary Wilmore, wife to Iohn Wilmore rough mason, who was delivered of a childe without a head, and credibly reported to have a firme crosse on the brest, as this ensuing story shall relate.</title>
+                  <author>Locke, John, Cleric.</author>
+               </titleStmt>
+               <extent>7, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for Rich: Harper and Thomas Wine, and are to be sold at the Bible and Harpe in Smithfield,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: by John Locke, cleric.</note>
+                  <note>Annotation on Thomason copy: "Aug. 23.".</note>
+                  <note>Woodcut illustration on t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wilmore, Mary --  Early works to 1800.</term>
+               <term>Abnormalities, Human --  Early works to 1800.</term>
+               <term>Curiosities and wonders --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111660:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>A STRANGE And Lamentable accident that happened lately at Mearſ-Aſhby in Northamptonſhire. 1642.</p>
+            <p>Of one <hi>Mary Wilmore,</hi> wife to <hi>Iohn Wilmore</hi> rough M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſon, who was delivered of a Childe without a head, and credibly reported to have a firme Croſſe on the breſt, as this en<g ref="char:EOLhyphen"/>ſuing Story ſhall relate.</p>
+            <q>
+               <bibl>Hor:</bibl> 
+               <l>Mirando cano.</l>
+            </q>
+            <figure/>
+            <p>Printed at London for <hi>Rich: Harper</hi> and <hi>Thomas Wine,</hi> and are to bee ſold at the Bible and Harpe in Smithfield. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111660:2"/>
+            <!-- PDF PAGE 98 -->
+            <pb facs="tcp:111660:2"/>
+            <!-- PDF PAGE 98 -->
+            <head>A ſtrange and lamentable Acci<g ref="char:EOLhyphen"/>dent that happened lately at Mearſ-Aſhby in Northampton ſhire. 1642.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Kingdome once glorying in the flouriſhing title of Ol<g ref="char:EOLhyphen"/>bion: which is as much as happineſſe and tranquility, <hi>(tam Eccleſ. quam Re<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b.)</hi> but now being clouded and maskt with various diſtracti<g ref="char:EOLhyphen"/>ons, as are apparantly knowne and made manifeſt to the whole world, in ſo much that ſhe is made a laughing ſtocke, and a ſcorne to all Nations, may now with the Publican cry, <hi>Lord have mercy on me a ſinner:</hi> or with <hi>Eccebolius,</hi> chiefe Captain of the Apoſtates, who in <hi>Conſtantines</hi> time to oke upon him the note of a zealous Chriſtian: in the reigne of <hi>Iulian</hi> he became a Pagan; <hi>Iulian</hi> being dead then he would become a Chriſtian: but be<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:111660:3"/>
+               <!-- PDF PAGE 99 -->
+ſenſible of his mutability and inconſtancy, proſtrated himſelfe flat upon the ground at the Porch of the Temple, crying with a loud voyce, Tread on me, tread on me, for I am unſavoury ſalt.</p>
+            <p>I feare me we have too too many of theſe un<g ref="char:EOLhyphen"/>favourable and wheeling Rotundities frequent amongſt us, but I pray God it happeneth not to them as it did to <hi>Iulian</hi> Uncle to <hi>Iulian</hi> the Apo<g ref="char:EOLhyphen"/>ſtate, for their contemning and ſlighting Gods ho<g ref="char:EOLhyphen"/>ly ordinances, who comming into a Church at Antioch, profaned the Lords Table by piſſing upon it, ſaying in ſcorne, that the Divine Provi<g ref="char:EOLhyphen"/>dence tooke no care of outward ceremonies. But not long after divine Juſtice found him out, for being taken with a diſeaſe that rotted his bowels, his excrements leaving their wonted paſſage, ran through his throat and blaſphemous mouth in as ſtinking a manner, as the poyſoned traſh and beg<g ref="char:EOLhyphen"/>garly rudiments are fomented now adayes from the impudent mouthes of unlearned and ignorant Teachers, the event of whoſe pernicious and il<g ref="char:EOLhyphen"/>literate doctrine will lead me to this enſuing ſto<g ref="char:EOLhyphen"/>ry of Gods wrath and judgements to over curi<g ref="char:EOLhyphen"/>ous and nice zelots of our times.</p>
+            <p>
+               <pb facs="tcp:111660:3"/>
+               <!-- PDF PAGE 99 -->In Mearſ-Aſhby in Nottingham ſhire, on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Ma<g ref="char:EOLhyphen"/>ry Wilmore</hi> wife of <hi>Iohn Wilmore,</hi> rough Maſon, being great with childe, and much perplext in minde, to thinke that her childe when it pleaſed God ſhe ſhould be delivered, ſhould be baptized with the ſigne of the Croſſe: The Miniſter of the Pariſh being a very honeſt and conformable man, not ſuiting with the vaine babling and erro<g ref="char:EOLhyphen"/>neous Sycophants, as there are too too many thereabouts inhabiting, deſires her husband to goe to Hardwicke, a Village neare adjoyning to one Maſter <hi>Ba<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nard</hi> a reverend Divine, to know his opinion concerning the Croſſe in Baptiſme: whoſe anſwer was, That it was no wayes neceſ<g ref="char:EOLhyphen"/>ſary to ſalvation, but an ancient, laudable, and decent ceremony of the Church of England<g ref="char:punc">▪</g> Which anſwer being related to her from <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> husband, it is reported ſhe ſhould ſay, I had <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther my childe ſhould bee borne without a head, then to have a head to be ſigned with the ſigne of the Croſſe.</p>
+            <p>Haply this woman through her weakneſſe, or too much confiding in the conventicling Secta<g ref="char:EOLhyphen"/>ries, <hi>Qui quicquid in buccam venerit blatterant:</hi> might thinke ſhe did well, ſuppoſing as ſhee was taught by them, the Croſſe in Baptiſme to bee a pernicious, popiſh and idolatrous ceremony: yet ſee <hi>Vzzah,</hi> 2 <hi>Sam.</hi> 6.6, 7. 1 <hi>Chron.</hi> 13.9, 10. <hi>vid. Iudg.</hi> 8.27. though thy intent in doing a ſeeming
+<pb facs="tcp:111660:4"/>
+               <!-- PDF PAGE 100 -->
+good action be never ſo good, yet if thou have not warrant for nor ſo doing, thou and thine acti<g ref="char:EOLhyphen"/>on may happly periſh together, as the ſequell of this ſtory will declare. It pleaſed God about a month after, ſhee was accordingly delivered of a Monſter, <hi>Rudes indegeſtáque moles,</hi> a child with<g ref="char:EOLhyphen"/>out a head, to the ſhame of the parents, in not ha<g ref="char:EOLhyphen"/>ving that part whereon it might have been markt with that token whereof it ſhould never after have beene aſhamed.</p>
+            <p>What ſtrange judgements of God have wee ſeene, ſaith <hi>Pollychronus,</hi> in the times of revolters? as we may ſee in the third yeare of Queene <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> of ever bleſſed memory, when as in <hi>Moore</hi> and <hi>Geofferey,</hi> two of the divells agents, publiſht their prodigious and hereticall tenents, to the al<g ref="char:EOLhyphen"/>lurement of many faithfull and conſtant belee<g ref="char:EOLhyphen"/>vers: the yeare after was many monſtrous births. A man childe was borne at Chicheſter in Suffex, the head, armes, and legs whereof were like Ana<g ref="char:EOLhyphen"/>tomy, the breſt and belly monſtrous big from the navell, about the necke a great coller of fleſh and skin growing, like to the double ruffes and nec<g ref="char:EOLhyphen"/>kerchiefes then in uſe, and many more like acci<g ref="char:EOLhyphen"/>dents, <hi>Qua nunc norandi non eſt locus.</hi> Good Lord therefore which haſt made and faſhioned us, and as there is one Lord, one faith, and one baptiſme, one God and Father of all, even ſo Lord grant that wee may joyntly agree in love,
+<pb facs="tcp:111660:4"/>
+               <!-- PDF PAGE 100 -->
+and that there remaine amongſt us a godly con<g ref="char:EOLhyphen"/>ſent and loving concord, and that nothing bee done in contention and vainglory: and ſuffer us not to exerciſe our ſelves in the workes of the fleſh, as hatred, emulations, contentions, hereſies, ſeditions, needleſſe and unprofitable queſtions, which tend to rebellion and diſcord, breeding ungodlineſſe, and make diſſention: breake thou the bonds of Sathan, and the malice of thoſe who extinguiſh the bond of peace.</p>
+            <byline>By <hi>Iohn Locke, Cleric.</hi>
+            </byline>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
